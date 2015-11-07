@@ -15,3 +15,11 @@
   - replace `fusion_tabs` with `tabs` and `fusion_tab` with `tab`
   - wrap it into `div.mtv-faq-tabs`
   - wrap image into `[img responsive=true]`
+  - add after `<br/>`
+- Terms page
+  - wrap image into `[img responsive=true]`
+  - add after `<br/>`
+- Contacts page
+  - wrap image into `[img responsive=true]`
+  - add after `<br/>`
+  - fix `</p>` inside one of the columns
