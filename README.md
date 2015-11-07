@@ -11,3 +11,5 @@
   - set slug as `home`
 - LS page
   - update embed code (wrap it)
+- FAQ page
+  - replace `fusion_tabs` with `tabs` and `fusion_tab` with `tab`
