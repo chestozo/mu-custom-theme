@@ -23,3 +23,6 @@
   - wrap image into `[img responsive=true]`
   - add after `<br/>`
   - fix `</p>` inside one of the columns
+
+NOTE
+- I've changed `.thumbnail` class to `.mtv-thumbnail` (it was interfaring with bootstrap standard class).
