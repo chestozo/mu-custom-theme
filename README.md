@@ -25,4 +25,4 @@
   - fix `</p>` inside one of the columns
 
 NOTE
-- I've changed `.thumbnail` class to `.mtv-thumbnail` (it was interfaring with bootstrap standard class).
+- I've changed `.thumbnail` class to `.mtv-thumbnail` (it was interfering with bootstrap standard class).
