@@ -11,6 +11,9 @@
   - set slug as `home`
   - fix html
     - last 2 one_third columns remove style `style="margin: 0 auto;"`
+- Subscription page
+  - html
+    - remove `style="text-align: left;"` and `style="text-align: right;"` for the 1st and last columns
 - LS page
   - update embed code (wrap it)
 - FAQ page
