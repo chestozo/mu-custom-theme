@@ -9,6 +9,8 @@
 - Index page
   - <del>add manually slider to page content `[rev_slider home]`</del> (now it is in `header.php`)
   - set slug as `home`
+  - fix html
+    - last one_third column style should be `margin: 0 auto;`
 - LS page
   - update embed code (wrap it)
 - FAQ page
