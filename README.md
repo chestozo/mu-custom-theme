@@ -4,6 +4,7 @@
 - activate new theme
 - diactivate fus.. core plugin
 - diactivate random content plugin
+- diactivate LayerSlider WP plugin
 - download as archive and install https://github.com/filipstefansson/bootstrap-3-shortcodes
 - set menu as primary menu
 - set target blank for external links in menu
