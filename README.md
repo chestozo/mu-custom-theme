@@ -6,6 +6,7 @@
 - diactivate random content plugin
 - download as archive and install https://github.com/filipstefansson/bootstrap-3-shortcodes
 - set menu as primary menu
+- set target blank for external links in menu
 - Index page
   - <del>add manually slider to page content `[rev_slider home]`</del> (now it is in `header.php`)
   - set slug as `home`
