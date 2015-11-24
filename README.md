@@ -5,7 +5,7 @@
 - deactivate fus.. core plugin
 - deactivate random content plugin
 - deactivate LayerSlider WP plugin
-- download as archive and install https://github.com/filipstefansson/bootstrap-3-shortcodes
+- install Bootstrap 3 Shortcodes plugin (it is this one https://github.com/filipstefansson/bootstrap-3-shortcodes)
 - set menu as primary menu
 - set target blank for external links in menu
 - fix page title? (the only problem - is the home page where description is added. Maybe we can keep it like this? check with G)
