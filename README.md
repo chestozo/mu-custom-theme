@@ -2,9 +2,9 @@
 
 ## Setup
 - activate new theme
-- deactivate fus.. core plugin
-- deactivate random content plugin
-- deactivate LayerSlider WP plugin
+- delete fus.. core plugin
+- delete LayerSlider WP plugin
+- delete random content plugin
 - install Bootstrap 3 Shortcodes plugin (it is this one https://github.com/filipstefansson/bootstrap-3-shortcodes)
 - set menu as primary menu
 - set target blank for external links in menu
