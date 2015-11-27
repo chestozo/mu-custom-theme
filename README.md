@@ -2,6 +2,7 @@
 
 ## Setup
 - activate new theme
+- delete moojitv child theme and Avada main theme
 - delete fus.. core plugin
 - delete LayerSlider WP plugin
 - delete random content plugin
