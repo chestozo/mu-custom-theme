@@ -10,7 +10,7 @@
 - set menu as primary menu
 - screen options - link target - tick
 - set target blank for external links in menu
-- fix page title? (the only problem - is the home page where description is added. Maybe we can keep it like this? check with G)
+- fix page title if needed? (the only problem - is the home page where description is added. Maybe we can keep it like this? check with G)
 - Index page
   - <del>add manually slider to page content `[rev_slider home]`</del> (now it is in `header.php`)
   - set slug as `home`
