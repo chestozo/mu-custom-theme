@@ -25,7 +25,7 @@
 - FAQ page
   - replace `fusion_tabs` with `tabs` and `fusion_tab` with `tab`
   - wrap it into `div.mtv-faq-tabs`
-  - wrap image into `[img responsive=true]`
+  - wrap image into `[img responsive=true]`, remove sizes
   - add after `<br/>`
 - Terms page
   - wrap image into `[img responsive=true]`
