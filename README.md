@@ -20,6 +20,7 @@
 - Subscription page
   - html
     - remove `style="text-align: left;"` and `style="text-align: right;"` for the 1st and last columns
+    - add ` parent_class="mtv-subscription-tiles"` to the first column
 - LS page
   - update embed code (wrap it)
 - FAQ page
