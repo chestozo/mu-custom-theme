@@ -38,3 +38,8 @@
 
 NOTE
 - I've changed `.thumbnail` class to `.mtv-thumbnail` (it was interfering with bootstrap standard class).
+
+DONE
+- we forgot to check alerts (in js code)
+- it took 40 mins instead of 15
+
